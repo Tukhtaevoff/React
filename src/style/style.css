@@ -155,8 +155,11 @@ footer {
 .social-media {
    font-size: 25px;
    gap: 30px;
+   box-sizing: border-box;
 }
 
-/* i {
-  padding: 5px;
-} */
+i {
+  color: #fff;
+  margin: 5px;
+  cursor: pointer;
+}
